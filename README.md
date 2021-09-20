@@ -1,4 +1,4 @@
-### Hi there 👋, Welcome to my github page.
+#### I'm Bind and Welcome to my github page.
 
 Skills: Java
 
